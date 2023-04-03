@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/0xMimir/0xMimir/main/obi-wan.gif" />
+    <img src="https://github.com/0xMimir/0xMimir/blob/main/obi-wan.gif?raw=true" />
 </p>
 
 <h3 align="center">"Your eyes can deceive you. Don't trust them. Use unit tests instead." - Obi-Wan Kenobi</h3>
