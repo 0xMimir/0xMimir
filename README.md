@@ -1,6 +1,7 @@
 <p align="center">
-   <iframe  src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://raw.githubusercontent.com/0xMimir/0xMimir/main/obi-wan.gif" />
 </p>
+
 <h3 align="center">"Your eyes can deceive you. Don't trust them. Use unit tests instead." - Obi-Wan Kenobi</h3>
 <br />
 <h3 align="center">Languages and Tools:</h3>
