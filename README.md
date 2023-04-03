@@ -11,6 +11,6 @@
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=0xMimir" alt="0xMimir" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=0xMimir&theme=transparent" alt="0xMimir" /></p>
 <br />
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=0xMimir&show_icons=true&locale=en&layout=compact" alt="0xMimir" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=0xMimir&show_icons=true&locale=en&layout=compact&theme=transparent" alt="0xMimir" /></p>
