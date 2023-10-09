@@ -18,3 +18,9 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=0xMimir&theme=transparent" alt="0xMimir" /></p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=0xMimir&show_icons=true&locale=en&layout=compact&theme=transparent" alt="0xMimir" /></p>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
