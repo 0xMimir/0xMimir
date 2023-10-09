@@ -21,9 +21,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-2. 💪 Opened PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-3. 🗣 Commented on [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. ❗ Opened issue [#38](https://github.com/rzashakeri/beautify-github-profile/issues/38) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+2. ❗ Opened issue [#37](https://github.com/rzashakeri/beautify-github-profile/issues/37) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+3. 🔒 Closed issue [#1](https://github.com/biblius/migr/issues/1) in [biblius/migr](https://github.com/biblius/migr)
+4. ❗ Opened issue [#1](https://github.com/biblius/migr/issues/1) in [biblius/migr](https://github.com/biblius/migr)
+5. 💪 Opened PR [#6](https://github.com/jeremydavis519/runtime-macros/pull/6) in [jeremydavis519/runtime-macros](https://github.com/jeremydavis519/runtime-macros)
 <!--END_SECTION:activity-->
