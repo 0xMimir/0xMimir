@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/0xMimir/0xMimir/blob/main/obi-wan.gif?raw=true" />
+    <img src="https://github.com/0xMimir/0xMimir/blob/51bf3f06c7d04d019c1678a04a754d4bf04b8a8e/obi-wan.gif?raw=true" />
 </p>
 
 <h3 align="center">
@@ -17,8 +17,8 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=0xMimir&theme=transparent" alt="0xMimir" /></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=0xMimir&show_icons=true&locale=en&layout=compact&theme=transparent" alt="0xMimir" /></p>
 
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#38](https://github.com/rzashakeri/beautify-github-profile/issues/38) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
