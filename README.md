@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#38](https://github.com/rzashakeri/beautify-github-profile/issues/38) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. ❗ Opened issue [#37](https://github.com/rzashakeri/beautify-github-profile/issues/37) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-3. 🔒 Closed issue [#1](https://github.com/biblius/migr/issues/1) in [biblius/migr](https://github.com/biblius/migr)
-4. ❗ Opened issue [#1](https://github.com/biblius/migr/issues/1) in [biblius/migr](https://github.com/biblius/migr)
-5. 💪 Opened PR [#6](https://github.com/jeremydavis519/runtime-macros/pull/6) in [jeremydavis519/runtime-macros](https://github.com/jeremydavis519/runtime-macros)
+1. 💪 Opened PR [#11445](https://github.com/ethereum/ethereum-org-website/pull/11445) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
+2. ❗ Opened issue [#11444](https://github.com/ethereum/ethereum-org-website/issues/11444) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
+3. ❗ Opened issue [#38](https://github.com/rzashakeri/beautify-github-profile/issues/38) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. ❗ Opened issue [#37](https://github.com/rzashakeri/beautify-github-profile/issues/37) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+5. 🔒 Closed issue [#1](https://github.com/biblius/migr/issues/1) in [biblius/migr](https://github.com/biblius/migr)
 <!--END_SECTION:activity-->
