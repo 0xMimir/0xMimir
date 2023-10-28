@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
-2. 💪 Opened PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
-3. ❗ Opened issue [#6](https://github.com/Mikerah/awesome-privacy-on-blockchains/issues/6) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
-4. 🗣 Commented on [#1344](https://github.com/otterscan/otterscan/issues/1344#issuecomment-1766735165) in [otterscan/otterscan](https://github.com/otterscan/otterscan)
-5. 💪 Opened PR [#11445](https://github.com/ethereum/ethereum-org-website/pull/11445) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
+1. 💪 Opened PR [#262](https://github.com/Synthetixio/synthetix-website/pull/262) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
+2. ❗ Opened issue [#261](https://github.com/Synthetixio/synthetix-website/issues/261) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
+3. ❗ Opened issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
+4. 💪 Opened PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
+5. ❗ Opened issue [#6](https://github.com/Mikerah/awesome-privacy-on-blockchains/issues/6) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
 <!--END_SECTION:activity-->
