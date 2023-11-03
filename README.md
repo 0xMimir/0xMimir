@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#262](https://github.com/Synthetixio/synthetix-website/pull/262) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
-2. ❗ Opened issue [#261](https://github.com/Synthetixio/synthetix-website/issues/261) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
-3. ❗ Opened issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
-4. 💪 Opened PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
-5. ❗ Opened issue [#6](https://github.com/Mikerah/awesome-privacy-on-blockchains/issues/6) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
+1. ❗ Opened issue [#125](https://github.com/openmina/openmina/issues/125) in [openmina/openmina](https://github.com/openmina/openmina)
+2. 💪 Opened PR [#262](https://github.com/Synthetixio/synthetix-website/pull/262) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
+3. ❗ Opened issue [#261](https://github.com/Synthetixio/synthetix-website/issues/261) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
+4. ❗ Opened issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
+5. 💪 Opened PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
 <!--END_SECTION:activity-->
