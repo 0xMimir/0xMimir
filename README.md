@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/web3privacy/web3privacy/pull/45) in [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy)
-2. ❗ Opened issue [#44](https://github.com/web3privacy/web3privacy/issues/44) in [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy)
-3. 💪 Opened PR [#126](https://github.com/openmina/openmina/pull/126) in [openmina/openmina](https://github.com/openmina/openmina)
-4. ❗ Opened issue [#125](https://github.com/openmina/openmina/issues/125) in [openmina/openmina](https://github.com/openmina/openmina)
-5. 💪 Opened PR [#262](https://github.com/Synthetixio/synthetix-website/pull/262) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
+1. ❗ Opened issue [#98](https://github.com/ethersphere/ethswarm-nextjs/issues/98) in [ethersphere/ethswarm-nextjs](https://github.com/ethersphere/ethswarm-nextjs)
+2. 💪 Opened PR [#45](https://github.com/web3privacy/web3privacy/pull/45) in [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy)
+3. ❗ Opened issue [#44](https://github.com/web3privacy/web3privacy/issues/44) in [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy)
+4. 💪 Opened PR [#126](https://github.com/openmina/openmina/pull/126) in [openmina/openmina](https://github.com/openmina/openmina)
+5. ❗ Opened issue [#125](https://github.com/openmina/openmina/issues/125) in [openmina/openmina](https://github.com/openmina/openmina)
 <!--END_SECTION:activity-->
