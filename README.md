@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/openmina/openmina/pull/126) in [openmina/openmina](https://github.com/openmina/openmina)
-2. ❗ Opened issue [#125](https://github.com/openmina/openmina/issues/125) in [openmina/openmina](https://github.com/openmina/openmina)
-3. 💪 Opened PR [#262](https://github.com/Synthetixio/synthetix-website/pull/262) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
-4. ❗ Opened issue [#261](https://github.com/Synthetixio/synthetix-website/issues/261) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
-5. ❗ Opened issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
+1. 💪 Opened PR [#45](https://github.com/web3privacy/web3privacy/pull/45) in [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy)
+2. ❗ Opened issue [#44](https://github.com/web3privacy/web3privacy/issues/44) in [web3privacy/web3privacy](https://github.com/web3privacy/web3privacy)
+3. 💪 Opened PR [#126](https://github.com/openmina/openmina/pull/126) in [openmina/openmina](https://github.com/openmina/openmina)
+4. ❗ Opened issue [#125](https://github.com/openmina/openmina/issues/125) in [openmina/openmina](https://github.com/openmina/openmina)
+5. 💪 Opened PR [#262](https://github.com/Synthetixio/synthetix-website/pull/262) in [Synthetixio/synthetix-website](https://github.com/Synthetixio/synthetix-website)
 <!--END_SECTION:activity-->
