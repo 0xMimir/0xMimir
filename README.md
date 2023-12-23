@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
-2. ❌ Closed PR [#4](https://github.com/hashgraph/hedera-subgraph-example/pull/4) in [hashgraph/hedera-subgraph-example](https://github.com/hashgraph/hedera-subgraph-example)
-3. 🔒 Closed issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
-4. ❗ Opened issue [#1](https://github.com/Yen/postgres_web3/issues/1) in [Yen/postgres_web3](https://github.com/Yen/postgres_web3)
-5. 💪 Opened PR [#13](https://github.com/ecklf/coingecko-rs/pull/13) in [ecklf/coingecko-rs](https://github.com/ecklf/coingecko-rs)
+1. ❗ Opened issue [#69](https://github.com/Scanate/EthList/issues/69) in [Scanate/EthList](https://github.com/Scanate/EthList)
+2. ❌ Closed PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
+3. ❌ Closed PR [#4](https://github.com/hashgraph/hedera-subgraph-example/pull/4) in [hashgraph/hedera-subgraph-example](https://github.com/hashgraph/hedera-subgraph-example)
+4. 🔒 Closed issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
+5. ❗ Opened issue [#1](https://github.com/Yen/postgres_web3/issues/1) in [Yen/postgres_web3](https://github.com/Yen/postgres_web3)
 <!--END_SECTION:activity-->
