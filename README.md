@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#69](https://github.com/Scanate/EthList/issues/69) in [Scanate/EthList](https://github.com/Scanate/EthList)
-2. ❌ Closed PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
-3. ❌ Closed PR [#4](https://github.com/hashgraph/hedera-subgraph-example/pull/4) in [hashgraph/hedera-subgraph-example](https://github.com/hashgraph/hedera-subgraph-example)
-4. 🔒 Closed issue [#24](https://github.com/biblius/validify/issues/24) in [biblius/validify](https://github.com/biblius/validify)
-5. ❗ Opened issue [#1](https://github.com/Yen/postgres_web3/issues/1) in [Yen/postgres_web3](https://github.com/Yen/postgres_web3)
+1. 🗣 Commented on [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688#issuecomment-1882585990) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
+2. 🔒 Closed issue [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
+3. ❗ Opened issue [#69](https://github.com/Scanate/EthList/issues/69) in [Scanate/EthList](https://github.com/Scanate/EthList)
+4. ❌ Closed PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
+5. ❌ Closed PR [#4](https://github.com/hashgraph/hedera-subgraph-example/pull/4) in [hashgraph/hedera-subgraph-example](https://github.com/hashgraph/hedera-subgraph-example)
 <!--END_SECTION:activity-->
