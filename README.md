@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688#issuecomment-1882585990) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
-2. 🔒 Closed issue [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
-3. ❗ Opened issue [#69](https://github.com/Scanate/EthList/issues/69) in [Scanate/EthList](https://github.com/Scanate/EthList)
-4. ❌ Closed PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
-5. ❌ Closed PR [#4](https://github.com/hashgraph/hedera-subgraph-example/pull/4) in [hashgraph/hedera-subgraph-example](https://github.com/hashgraph/hedera-subgraph-example)
+1. ❗ Opened issue [#45](https://github.com/openmina/mina-network-debugger/issues/45) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+2. 🗣 Commented on [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688#issuecomment-1882585990) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
+3. 🔒 Closed issue [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
+4. ❗ Opened issue [#69](https://github.com/Scanate/EthList/issues/69) in [Scanate/EthList](https://github.com/Scanate/EthList)
+5. ❌ Closed PR [#7](https://github.com/Mikerah/awesome-privacy-on-blockchains/pull/7) in [Mikerah/awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains)
 <!--END_SECTION:activity-->
