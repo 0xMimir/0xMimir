@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#45](https://github.com/openmina/mina-network-debugger/issues/45) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
-2. ❗ Opened issue [#45](https://github.com/openmina/mina-network-debugger/issues/45) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
-3. 🗣 Commented on [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688#issuecomment-1882585990) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
-4. 🔒 Closed issue [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
-5. ❗ Opened issue [#69](https://github.com/Scanate/EthList/issues/69) in [Scanate/EthList](https://github.com/Scanate/EthList)
+1. ❗ Opened issue [#83](https://github.com/openmina/mina-frontend/issues/83) in [openmina/mina-frontend](https://github.com/openmina/mina-frontend)
+2. 💪 Opened PR [#47](https://github.com/openmina/mina-network-debugger/pull/47) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+3. 🔒 Closed issue [#45](https://github.com/openmina/mina-network-debugger/issues/45) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+4. ❗ Opened issue [#45](https://github.com/openmina/mina-network-debugger/issues/45) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+5. 🗣 Commented on [#1688](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1688#issuecomment-1882585990) in [hashgraph/hedera-json-rpc-relay](https://github.com/hashgraph/hedera-json-rpc-relay)
 <!--END_SECTION:activity-->
