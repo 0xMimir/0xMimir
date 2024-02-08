@@ -21,9 +21,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#48](https://github.com/openmina/mina-network-debugger/issues/48) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
-2. ❗ Opened issue [#83](https://github.com/openmina/mina-frontend/issues/83) in [openmina/mina-frontend](https://github.com/openmina/mina-frontend)
-3. 💪 Opened PR [#47](https://github.com/openmina/mina-network-debugger/pull/47) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
-4. 🔒 Closed issue [#45](https://github.com/openmina/mina-network-debugger/issues/45) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
-5. ❗ Opened issue [#45](https://github.com/openmina/mina-network-debugger/issues/45) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+1. 💪 Opened PR [#50](https://github.com/openmina/mina-network-debugger/pull/50) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+2. 💪 Opened PR [#49](https://github.com/openmina/mina-network-debugger/pull/49) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+3. ❗ Opened issue [#48](https://github.com/openmina/mina-network-debugger/issues/48) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
+4. ❗ Opened issue [#83](https://github.com/openmina/mina-frontend/issues/83) in [openmina/mina-frontend](https://github.com/openmina/mina-frontend)
+5. 💪 Opened PR [#47](https://github.com/openmina/mina-network-debugger/pull/47) in [openmina/mina-network-debugger](https://github.com/openmina/mina-network-debugger)
 <!--END_SECTION:activity-->
